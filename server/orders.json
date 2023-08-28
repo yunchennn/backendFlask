@@ -1,0 +1,139 @@
+[
+    {
+        "username": "yunchennn",
+        "profile": {
+            "firstName": "Yun",
+            "lastName": "Chen",
+            "address": "363 Oxhead Rd",
+            "country": "United States",
+            "zipcode": "11790",
+            "city": "Stony Brook",
+            "state": "NY"
+        },
+        "payment": {
+            "address": "363 Oxhead Rd",
+            "country": "United States",
+            "zipcode": "11790",
+            "city": "Stony Brook",
+            "state": "NY",
+            "cardFirstName": "Yun",
+            "cardLastName": "Chen",
+            "cardNumber": "9999999999999999999",
+            "month": "02",
+            "year": "2024",
+            "cvv": "999"
+        },
+        "order": {
+            "timestamp": "2023-08-26T19:09:10.344Z",
+            "total": 76,
+            "items": {
+                "BROOK": 2,
+                "THREE-V": 2
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "profile": {
+            "firstName": "Yun",
+            "lastName": "Chen",
+            "address": "363 Oxhead Rd",
+            "country": "United States",
+            "zipcode": "11790",
+            "city": "Stony Brook",
+            "state": "NY"
+        },
+        "payment": {
+            "address": "363 Oxhead Rd",
+            "country": "United States",
+            "zipcode": "11790",
+            "city": "Stony Brook",
+            "state": "NY",
+            "cardFirstName": "Yun",
+            "cardLastName": "Chen",
+            "cardNumber": "1234567890123456789",
+            "month": "12",
+            "year": "2023",
+            "cvv": "222"
+        },
+        "order": {
+            "timestamp": "2023-08-26T19:22:44.974Z",
+            "total": 96,
+            "items": {
+                "T-SHIRT/BLACK": 3
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "profile": {
+            "firstName": "Yun",
+            "lastName": "Chen",
+            "address": "363 Oxhead Rd",
+            "country": "United States",
+            "zipcode": "11790",
+            "city": "Stony Brook",
+            "state": "NY"
+        },
+        "payment": {
+            "address": "363 Oxhead Rd",
+            "country": "United States",
+            "zipcode": "11790",
+            "city": "Stony Brook",
+            "state": "NY",
+            "cardFirstName": "Yun",
+            "cardLastName": "Chen",
+            "cardNumber": "0000000000000000000",
+            "month": "01",
+            "year": "2022",
+            "cvv": "000"
+        },
+        "order": {
+            "timestamp": "2023-08-26T20:25:02.982Z",
+            "total": 235,
+            "items": {
+                "STONY": 1,
+                "BROOK": 1,
+                "BURUNDI": 1,
+                "MUG": 1,
+                "T-SHIRT/BLACK": 1,
+                "T-SHIRT/WHITE": 1,
+                "AEROPRESS": 1,
+                "SCALE": 1
+            }
+        }
+    },
+    {
+        "username": "qwerty",
+        "profile": {
+            "firstName": "ppp",
+            "lastName": "qqq",
+            "address": "12qwe st 456",
+            "country": "United States",
+            "zipcode": "55555",
+            "city": "qaz",
+            "state": "MD"
+        },
+        "payment": {
+            "address": "12qwe st 456",
+            "country": "United States",
+            "zipcode": "55555",
+            "city": "qaz",
+            "state": "MD",
+            "cardFirstName": "ppp",
+            "cardLastName": "qqq",
+            "cardNumber": "0000000000000000",
+            "month": "12",
+            "year": "2024",
+            "cvv": "123"
+        },
+        "order": {
+            "timestamp": "2023-08-27T05:29:13.034Z",
+            "total": 64,
+            "items": {
+                "BUNDLE1": 1,
+                "BUNDLE2": 1
+            }
+        }
+    }
+]
